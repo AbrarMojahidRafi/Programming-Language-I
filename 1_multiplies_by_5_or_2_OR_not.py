@@ -49,3 +49,5 @@ elif a%5==0:
 
 else: 
   print("Not a multiple of 2 OR 5")
+
+

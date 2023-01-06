@@ -74,3 +74,4 @@ elif(25<celsius<30):
 #celsius>=30
 else:                         
   print("Summer")
+

@@ -59,3 +59,4 @@ elif (hours_worked<=40):
 else:
   receive2=8000 + ((hours_worked - 40)*300)
   print("{}".format(receive2))
+
